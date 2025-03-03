@@ -4,5 +4,57 @@
     <string name="log_in">Log in</string>
     <string name="sign_up">Sign Up</string>
 
+    <!-- Registrar Sitios -->
+
+    <!-- Titles -->
+    <string name="register_site">Registrar Sitio</string>
+
+    <!-- Input Fields -->
+    <string name="id_site">ID Sitio</string>
+    <string name="name">Nombre</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="description">Descripción (opcional)</string>
+
+    <!-- Buttons -->
+    <string name="register">Registrar</string>
+    <string name="consult">Consultar</string>
+    <string name="return_text">Retornar</string>
+
+    <!-- Content Descriptions -->
+    <string name="icon_description">Icono de ubicación</string>
+    <string name="map_preview">Vista previa del mapa</string>
+    <string name="get_current_location">Obtener ubicación actual</string>
+
+
+    <!-- Registrar Clientes Strings -->
+    <string name="register_client">Registrar Clientes</string>
+    <string name="id_client">ID Cliente</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="dni">DNI</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Correo electrónico</string>
+    <string name="address">Dirección</string>
+    <string name="preferences">Preferencias</string>
+    <string name="receive_notifications">Recibir notificaciones</string>
+    <string name="receive_promotions">Recibir promociones y ofertas</string>
+    <string name="icon_client_description">Icono de cliente</string>
+
+
+    <!-- Registrar Reserva Strings -->
+    <string name="register_reservation">Registrar Reserva</string>
+    <string name="id_reservation">ID Reserva</string>
+    <string name="date">Fecha</string>
+    <string name="cost">Costo</string>
+    <string name="duration">Duración (horas)</string>
+    <string name="client">Cliente</string>
+    <string name="site">Sitio</string>
+    <string name="reservation_details">Detalles de la Reserva</string>
+    <string name="notes">Notas</string>
+    <string name="confirmed_reservation">Reserva confirmada</string>
+    <string name="icon_reservation_description">Icono de reserva</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
 
 </resources>
