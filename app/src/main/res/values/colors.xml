@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF1A34</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="textColor">#ECE5EC</color>
+    <color name="pinkColor">#FF003B</color>
+    <color name="tansparentColor">#00FFFFFF</color>
+
+    <color name="colorPrimary">#6200EE</color> <!-- Cambia según tus necesidades -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Cambia según tus necesidades -->
+    <color name="colorAccent">#03DAC5</color> <!-- Cambia según tus necesidades -->
+
+    <!-- Deep -->
+
+    <!-- Colores básicos -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cianazul">#2a70bf</color>
+
+    <!-- Rojos -->
+    <color name="red">#FFFF0000</color>
+    <color name="dark_red">#FF8B0000</color>
+    <color name="firebrick">#FFB22222</color>
+    <color name="crimson">#FFDC143C</color>
+    <color name="tomato">#FFFF6347</color>
+    <color name="light_coral">#FFF08080</color>
+
+    <!-- Verdes -->
+    <color name="green">#FF00FF00</color>
+    <color name="forest_green">#FF228B22</color>
+    <color name="lime">#FF00FF00</color>
+    <color name="olive">#FF808000</color>
+    <color name="sea_green">#FF2E8B57</color>
+    <color name="spring_green">#FF00FF7F</color>
+
+    <!-- Azules -->
+    <color name="blue">#FF0000FF</color>
+    <color name="navy">#FF000080</color>
+    <color name="royal_blue">#FF4169E1</color>
+    <color name="sky_blue">#FF87CEEB</color>
+    <color name="steel_blue">#FF4682B4</color>
+    <color name="midnight_blue">#FF191970</color>
+
+    <!-- Amarillos/Naranjas -->
+    <color name="yellow">#FFFFFF00</color>
+    <color name="gold">#FFFFD700</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="dark_orange">#FFFF8C00</color>
+    <color name="amber">#FFFFBF00</color>
+    <color name="sand">#FFC2B280</color>
+
+    <!-- Morados/Violetas -->
+    <color name="purple">#FF800080</color>
+    <color name="indigo">#FF4B0082</color>
+    <color name="lavender">#FFE6E6FA</color>
+    <color name="plum">#FFDDA0DD</color>
+    <color name="orchid">#FFDA70D6</color>
+    <color name="violet">#FFEE82EE</color>
+
+    <!-- Rosas -->
+    <color name="pink">#FFFFC0CB</color>
+    <color name="hot_pink">#FFFF69B4</color>
+    <color name="deep_pink">#FFFF1493</color>
+    <color name="salmon">#FFFA8072</color>
+    <color name="coral">#FFFF7F50</color>
+
+    <!-- Marrones -->
+    <color name="brown">#FFA52A2A</color>
+    <color name="sienna">#FFA0522D</color>
+    <color name="chocolate">#FFD2691E</color>
+    <color name="tan">#FFD2B48C</color>
+    <color name="beige">#FFF5F5DC</color>
+
+    <!-- Grises -->
+    <color name="gray">#FF808080</color>
+    <color name="slate_gray">#FF708090</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="silver">#FFC0C0C0</color>
+    <color name="dim_gray">#FF696969</color>
+
+    <!-- Colores modernos -->
+    <color name="teal">#FF008080</color>
+    <color name="turquoise">#FF40E0D0</color>
+    <color name="mint">#FF98FF98</color>
+    <color name="peach">#FFFFE5B4</color>
+    <color name="lavender_blush">#FFFFF0F5</color>
+
+    <!-- Colores neón -->
+    <color name="neon_green">#FF39FF14</color>
+    <color name="neon_pink">#FFFF44CC</color>
+    <color name="neon_yellow">#FFFFFF33</color>
+    <color name="neon_orange">#FFFF6700</color>
+
+    <!-- Colores metalizados -->
+    <color name="gold_metallic">#FFD4AF37</color>
+    <color name="silver_metallic">#FFC5C9C7</color>
+    <color name="bronze">#FFCD7F32</color>
+    <color name="copper">#FFB87333</color>
+
+    <!-- Degradados especiales -->
+    <color name="sunset_orange">#FFFD5E53</color>
+    <color name="ocean_blue">#FF4F94CD</color>
+    <color name="forest_mist">#FF7BA05B</color>
+    <color name="twilight_purple">#FF6A5ACD</color>
+
+    <!-- Colores pastel -->
+    <color name="pastel_blue">#FFAEC6CF</color>
+    <color name="pastel_pink">#FFFFD1DC</color>
+    <color name="pastel_green">#FF77DD77</color>
+    <color name="pastel_yellow">#FFFFFAA0</color>
+
+    <!-- Colores de Material Design -->
+    <color name="material_red">#FFF44336</color>
+    <color name="material_pink">#FFE91E63</color>
+    <color name="material_purple">#FF9C27B0</color>
+    <color name="material_deep_purple">#FF673AB7</color>
+    <color name="material_indigo">#FF3F51B5</color>
+    <color name="material_blue">#FF2196F3</color>
+    <color name="material_light_blue">#FF03A9F4</color>
+    <color name="material_cyan">#FF00BCD4</color>
+    <color name="material_teal">#FF009688</color>
+    <color name="material_green">#FF4CAF50</color>
+    <color name="material_light_green">#FF8BC34A</color>
+    <color name="material_lime">#FFCDDC39</color>
+    <color name="material_yellow">#FFFFEB3B</color>
+    <color name="material_amber">#FFFFC107</color>
+    <color name="material_orange">#FFFF9800</color>
+    <color name="material_deep_orange">#FFFF5722</color>
+    <color name="material_brown">#FF795548</color>
+    <color name="material_grey">#FF9E9E9E</color>
+
+    <!-- Colores de joyería -->
+    <color name="sapphire">#FF082567</color>
+    <color name="ruby">#FF9B111E</color>
+    <color name="emerald">#FF50C878</color>
+    <color name="amethyst">#FF9966CC</color>
+    <color name="topaz">#FFFFC87C</color>
+
+    <!-- Colores de frutas -->
+    <color name="strawberry">#FFFC5A8D</color>
+    <color name="mango">#FFFFD700</color>
+    <color name="kiwi">#FF8EE53F</color>
+    <color name="grape">#FF6F2DA8</color>
+    <color name="watermelon">#FFFC6C85</color>
+
+    <!-- Colores de estaciones -->
+    <color name="autumn_red">#FFD6542A</color>
+    <color name="winter_blue">#FF7EC0EE</color>
+    <color name="summer_yellow">#FFFFD700</color>
+
+    <!-- Colores culturales -->
+    <color name="jade_chino">#FF00A86B</color>
+    <color name="india_saffron">#FFFF9933</color>
+    <color name="egyptian_blue">#FF1034A6</color>
+    <color name="mayan_blue">#FF73C2FB</color>
+
+    <!-- Colores retro -->
+    <color name="retro_pink">#FFFF6F61</color>
+    <color name="retro_cyan">#FF00CED1</color>
+    <color name="retro_mustard">#FFE1AD01</color>
+    <color name="retro_avocado">#FF568203</color>
+
+    <!-- Claude -->
+
+    <!-- Tonos de Azul Adicionales -->
+    <color name="powder_blue">#FFB0E0E6</color>
+    <color name="alice_blue">#FFF0F8FF</color>
+    <color name="azure">#FFF0FFFF</color>
+    <color name="cerulean">#FF007BA7</color>
+    <color name="cobalt">#FF0047AB</color>
+    <color name="cornflower_blue">#FF6495ED</color>
+    <color name="cyan_blue">#FF0E7C7B</color>
+    <color name="denim">#FF1560BD</color>
+    <color name="dodger_blue">#FF1E90FF</color>
+    <color name="electric_blue">#FF7DF9FF</color>
+
+    <!-- Tonos de Verde Adicionales -->
+    <color name="asparagus">#FF87A96B</color>
+    <color name="chartreuse">#FF7FFF00</color>
+    <color name="fern_green">#FF4F7942</color>
+    <color name="honeydew">#FFF0FFF0</color>
+    <color name="hunter_green">#FF355E3B</color>
+    <color name="jungle_green">#FF29AB87</color>
+    <color name="mantis">#FF74C365</color>
+    <color name="moss_green">#FF8A9A5B</color>
+    <color name="myrtle_green">#FF317873</color>
+    <color name="pine_green">#FF01796F</color>
+
+    <!-- Tonos de Rojo Adicionales -->
+    <color name="burgundy">#FF800020</color>
+    <color name="cardinal">#FFC41E3A</color>
+    <color name="carmine">#FF960018</color>
+    <color name="cerise">#FFDE3163</color>
+    <color name="cherry">#FFDE3163</color>
+    <color name="maroon">#FF800000</color>
+    <color name="raspberry">#FFE30B5D</color>
+    <color name="scarlet">#FFFF2400</color>
+    <color name="wine">#FF722F37</color>
+    <color name="rose_red">#FFFF033E</color>
+
+    <!-- Tonos de Amarillo Adicionales -->
+    <color name="canary">#FFFFEF00</color>
+    <color name="cream">#FFFFFDD0</color>
+    <color name="daffodil">#FFFFFFB3</color>
+    <color name="flax">#FFEEDC82</color>
+    <color name="gamboge">#FFE49B0F</color>
+    <color name="goldenrod">#FFDAA520</color>
+    <color name="lemon">#FFFFF700</color>
+    <color name="maize">#FFFFEA00</color>
+    <color name="mustard">#FFFFDB58</color>
+    <color name="wheat">#FFF5DEB3</color>
+
+    <!-- Tonos de Púrpura Adicionales -->
+    <color name="amaranth">#FFE52B50</color>
+    <color name="byzantium">#FF702963</color>
+    <color name="fuchsia">#FFFF00FF</color>
+    <color name="heliotrope">#FFDF73FF</color>
+    <color name="mauve">#FFE0B0FF</color>
+    <color name="mulberry">#FFC54B8C</color>
+    <color name="periwinkle">#FFCCCCFF</color>
+    <color name="thistle">#FFD8BFD8</color>
+    <color name="tyrian_purple">#FF66023C</color>
+    <color name="wisteria">#FFC9A0DC</color>
+
+    <!-- Tonos de Marrón Adicionales -->
+    <color name="beaver">#FF9F8170</color>
+    <color name="bole">#FF79443B</color>
+    <color name="brunette">#FF664A3F</color>
+    <color name="buff">#FFF0DC82</color>
+    <color name="burnt_umber">#FF8A3324</color>
+    <color name="chestnut">#FF954535</color>
+    <color name="cinnamon">#FFD2691E</color>
+    <color name="cocoa">#FFD2691E</color>
+    <color name="coffee">#FF6F4E37</color>
+    <color name="russet">#FF80461B</color>
+
+    <!-- Tonos de Gris Adicionales -->
+    <color name="ash_gray">#FFB2BEB5</color>
+    <color name="battleship_gray">#FF848482</color>
+    <color name="charcoal">#FF36454F</color>
+    <color name="gunmetal">#FF2A3439</color>
+    <color name="pewter">#FF899499</color>
+    <color name="platinum">#FFE5E4E2</color>
+    <color name="smoke">#FFF5F5F5</color>
+    <color name="steel">#FF4682B4</color>
+    <color name="taupe">#FF483C32</color>
+    <color name="titanium">#FF878681</color>
+
+    <!-- Colores de Piedras Preciosas -->
+    <color name="alexandrite">#FF5B3758</color>
+    <color name="aquamarine">#FF7FFFD4</color>
+    <color name="garnet">#FF733635</color>
+    <color name="jade">#FF00A86B</color>
+    <color name="malachite">#FF0BDA51</color>
+    <color name="moonstone">#FF3AA8C1</color>
+    <color name="onyx">#FF353839</color>
+    <color name="opal">#FFA8C3BC</color>
+    <color name="pearl">#FFF0EAD6</color>
+    <color name="peridot">#FF9DC183</color>
+
+    <!-- Colores de Flores -->
+    <color name="carnation">#FFFFA6C9</color>
+    <color name="chrysanthemum">#FFF8D64E</color>
+    <color name="dahlia">#FFF54D1E</color>
+    <color name="daisy">#FFFEFCD5</color>
+    <color name="iris">#FF5A4FCF</color>
+    <color name="lily">#FFCCA4E3</color>
+    <color name="magnolia">#FFF8F4FF</color>
+    <color name="poppy">#FFDC343B</color>
+    <color name="rose">#FFFF007F</color>
+    <color name="tulip">#FFFF878D</color>
+
+    <!-- Colores del Océano -->
+    <color name="aqua">#FF00FFFF</color>
+    <color name="arctic">#FF86A1A9</color>
+    <color name="caribbean">#FF0FC0FC</color>
+    <color name="lagoon">#FF1CA9C9</color>
+    <color name="marine">#FF042E60</color>
+    <color name="pacific">#FF1CA9C9</color>
+    <color name="reef">#FFC4DFE6</color>
+    <color name="sea_foam">#FF98FF98</color>
+    <color name="tidal">#FF8CBED6</color>
+    <color name="wave">#FF4BC7CF</color>
+
+    <!-- Colores del Desierto -->
+    <color name="adobe">#FFB26E63</color>
+    <color name="canyon">#FF721E15</color>
+    <color name="coyote">#FF826644</color>
+    <color name="dune">#FFD4B483</color>
+    <color name="mesa">#FFAF593E</color>
+    <color name="mojave">#FFD9B99B</color>
+    <color name="sandstone">#FF786D5F</color>
+    <color name="sedona">#FFCC6B49</color>
+    <color name="terra_cotta">#FFE2725B</color>
+    <color name="dust">#FFB6A176</color>
+
+    <!-- Colores de Alimentos -->
+    <color name="butterscotch">#FFFDB347</color>
+    <color name="caramel">#FFFF7F24</color>
+    <color name="honeycomb">#FFE0B973</color>
+    <color name="licorice">#FF1A1110</color>
+    <color name="macadamia">#FFF4DEA0</color>
+    <color name="maple">#FFCC8431</color>
+    <color name="mocha">#FF967969</color>
+    <color name="pistachio">#FF93C572</color>
+    <color name="pumpkin">#FFFF7518</color>
+    <color name="vanilla">#FFF3E5AB</color>
+
+    <!-- Colores del Bosque -->
+    <color name="bark">#FF926644</color>
+    <color name="bramble">#FF6E4B4B</color>
+    <color name="cedar">#FFBE8C61</color>
+    <color name="grove">#FF3E461B</color>
+    <color name="leaf">#FF71AA34</color>
+    <color name="moss">#FF8A9A5B</color>
+    <color name="pine_needle">#FF2C5545</color>
+    <color name="redwood">#FFA45A52</color>
+    <color name="sage">#FFBCB88A</color>
+    <color name="thicket">#FF4A5D23</color>
+
+    <!-- Colores del Atardecer -->
+    <color name="afterglow">#FFFC7C7C</color>
+    <color name="dusk">#FF4B0082</color>
+    <color name="horizon">#FFADA396</color>
+    <color name="sunset_gold">#FFFAD6A5</color>
+    <color name="sunset_pink">#FFFD9696</color>
+    <color name="sunset_purple">#FF7E4C74</color>
+    <color name="twilight_blue">#FF0A1F32</color>
+    <color name="twilight_rose">#FFCA8687</color>
+    <color name="twilight_violet">#FF8E4785</color>
+    <color name="zenith">#FF2D4887</color>
+    <color name="color_1">#CF31D4</color>
+
+</resources>
