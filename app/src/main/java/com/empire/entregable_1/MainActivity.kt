@@ -6,13 +6,11 @@ import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.empire.entregable_1.access.AuthActivity
 import com.empire.entregable_1.views.CheckReservations
 import com.empire.entregable_1.views.RegisterClients
-import com.empire.entregable_1.views.RegisterReservation
 import com.empire.entregable_1.views.RegisterSites
+import com.empire.entregable_1.views.RegisterReservation
 
 
 class MainActivity : AppCompatActivity() {
