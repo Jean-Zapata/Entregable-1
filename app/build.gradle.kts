@@ -89,6 +89,8 @@ dependencies {
     implementation ("com.google.firebase:firebase-auth:22.1.2")
     implementation ("com.google.firebase:firebase-database-ktx")
 
+    implementation ("com.google.android.gms:play-services-maps:18.1.0")
+
 
 
 }

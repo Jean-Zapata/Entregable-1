@@ -1,9 +1,9 @@
 package com.empire.entregable_1.models
 
 data class Sites(
-    val id: String = "",
-    val nombre: String = "",
-    val latitud: Double = 0.0,
-    val longitud: Double = 0.0,
-    val descripcion: String = ""
+    val idSitio: String, // Cambiado a Int en lugar de String
+    val nombre: String,
+    val latitud: Double,
+    val longitud: Double,
+    val descripcion: String
 )

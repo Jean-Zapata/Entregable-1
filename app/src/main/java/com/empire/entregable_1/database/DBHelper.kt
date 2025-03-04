@@ -4,7 +4,6 @@ import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import android.util.Log
 import com.empire.entregable_1.models.Clients
 import com.empire.entregable_1.models.Reservation
 import com.empire.entregable_1.models.Sites
@@ -154,7 +153,7 @@ class DBHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null
     fun insertarSitio(site: Sites): Boolean {
         val db = writableDatabase
         val values = ContentValues().apply {
-            put(COLUMN_ID, site.id)
+            put(COLUMN_ID, site.idSitio)
             put(COLUMN_NOMBRE, site.nombre)
             put(COLUMN_LATITUD, site.latitud)
             put(COLUMN_LONGITUD, site.longitud)
@@ -174,7 +173,8 @@ class DBHelper(context: Context) : SQLiteOpenHelper(context, DATABASE_NAME, null
                 cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_ID)),
                 cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_NOMBRE)),
                 cursor.getDouble(cursor.getColumnIndexOrThrow(COLUMN_LATITUD)),
-                cursor.getDouble(cursor.getColumnIndexOrThrow(COLUMN_LONGITUD))
+                cursor.getDouble(cursor.getColumnIndexOrThrow(COLUMN_LONGITUD)),
+                descripcion = TODO()
             )
             cursor.close()
             db.close()

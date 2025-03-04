@@ -56,7 +56,7 @@ class DatabaseHelper(context: Context) :
     fun insertarSitio(sitio: Sites): Boolean {
         val db = writableDatabase
         val values = ContentValues().apply {
-            put(COLUMN_ID, sitio.id)
+            put(COLUMN_ID, sitio.idSitio)
             put(COLUMN_NOMBRE, sitio.nombre)
             put(COLUMN_LATITUD, sitio.latitud)
             put(COLUMN_LONGITUD, sitio.longitud)
